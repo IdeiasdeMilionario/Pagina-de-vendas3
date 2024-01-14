@@ -1,0 +1,134 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url("https://i.pinimg.com/564x/dd/3d/5d/dd3d5dfae4ab171dc76f1a673fa38b55.jpg");
+  }
+
+  #hea1 {
+    background-color: #230b00;
+    color: #f8ecd4;
+    text-align: center;
+    padding: 15px;
+    height: 40px;
+  }
+  
+
+  #hea2 {
+    background-color: #230b00;
+    color: #f8ecd4;
+    text-align: center;
+    padding: 15px;
+    height: 48px;
+  }
+  #bry {
+    margin: 0;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px; 
+   }
+    
+  #img1 {
+    width: 60%;
+    height: auto;
+    display: block;
+    margin: 20px auto 10px; /* Adicionei um espaçamento inferior de 10 pixels */
+    border-radius: 10%;
+    border: 2px solid #000000;
+    margin-top: 70px;
+}
+#image-container {
+  text-align: center; /* Center the child elements */
+}
+
+#img2, #img3 {
+  width: 40%;
+  height: 200px;
+  display: inline-block;
+  margin: 20px 10px;
+  border-radius: 10%;
+  border: 2px solid #000000;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+
+
+  
+#joao {
+    text-align: center;
+    margin: 15px 0; /* Adicionei um espaçamento superior e inferior de 10 pixels */
+    font-size: 12px; /* Ajustei o tamanho da fonte para melhorar a legibilidade */
+    color: #000000;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 40px;
+}
+
+#joao2 {
+    text-align: center;
+    margin: 15px 0; /* Adicionei um espaçamento superior e inferior de 10 pixels */
+    font-size: 11px; /* Ajustei o tamanho da fonte para melhorar a legibilidade */
+    color: #000000;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 50px;
+    
+}
+
+#joao3 {
+  text-align: center;
+  margin: 15px 0; /* Adicionei um espaçamento superior e inferior de 10 pixels */
+  font-size: 12px; /* Ajustei o tamanho da fonte para melhorar a legibilidade */
+  color: #000000;
+  font-family: 'Josefin Sans', sans-serif;
+  margin-top: 45px;
+}
+
+#joao4 {
+  text-align: center;
+  margin: 15px 0; /* Adicionei um espaçamento superior e inferior de 10 pixels */
+  font-size: 11px; /* Ajustei o tamanho da fonte para melhorar a legibilidade */
+  color: #000000;
+  font-family: 'Josefin Sans', sans-serif;
+  margin-top: 50px;
+  margin-bottom: 70px;
+  
+}
+
+
+
+  #gabi {
+    background-image: white;
+    color: #000000;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    display: block;
+    margin: 10px auto; /* Adicionei um espaçamento superior e inferior de 10 pixels */
+    border-radius: 15px;
+    margin-top: 70px;
+    text-decoration: none;
+    border:2px solid black;
+}
+
+
+
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 11px;
+  } 
+
+  a{
+    text-decoration: none;
+    color:#000000;
+  }
+
+
