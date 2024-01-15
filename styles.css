@@ -96,6 +96,7 @@ body {
 }
 
 
+
 #gabi {
     background-color: white;
     color: #000000;
@@ -111,6 +112,12 @@ body {
     text-decoration: none;
     border: 2px solid black;
     transition: background-color 0.5s ease; /* Adicionando transição suave para a mudança de cor */
+}
+
+#gabi:hover,
+#gabi:active {
+    background-color: #4CAF50; /* Cor verde quando o botão está em hover ou clicado */
+    color: white; /* Alterando a cor do texto para branco quando o botão está em hover ou clicado */
 }
 
 
