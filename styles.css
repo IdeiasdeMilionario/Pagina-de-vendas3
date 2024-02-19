@@ -68,7 +68,7 @@ body {
 #joao2 {
     text-align: center;
     margin: 15px 0; /* Adicionei um espaçamento superior e inferior de 10 pixels */
-    font-size: 11px; /* Ajustei o tamanho da fonte para melhorar a legibilidade */
+    font-size: 10px; /* Ajustei o tamanho da fonte para melhorar a legibilidade */
     color: #000000;
     font-family: 'Josefin Sans', sans-serif;
     margin-top: 50px;
@@ -77,7 +77,7 @@ body {
 
 #joao3 {
   text-align: center;
-  margin: 15px 0; /* Adicionei um espaçamento superior e inferior de 10 pixels */
+  margin: 12px 0; /* Adicionei um espaçamento superior e inferior de 10 pixels */
   font-size: 12px; /* Ajustei o tamanho da fonte para melhorar a legibilidade */
   color: #000000;
   font-family: 'Josefin Sans', sans-serif;
@@ -97,27 +97,20 @@ body {
 
 
 
-#gabi {
-    background-color: white;
+  #gabi {
+    background-image: white;
     color: #000000;
-    padding: 15px 30px;
-    font-size: 18px;
+    padding: 10px 20px;
+    font-size: 16px;
     border: none;
     cursor: pointer;
     text-decoration: none;
     display: block;
-    margin: 10px auto;
+    margin: 10px auto; /* Adicionei um espaçamento superior e inferior de 10 pixels */
     border-radius: 15px;
     margin-top: 70px;
     text-decoration: none;
-    border: 2px solid black;
-    transition: background-color 0.5s ease; /* Adicionando transição suave para a mudança de cor */
-}
-
-#gabi:hover,
-#gabi:active {
-    background-color: #4CAF50; /* Cor verde quando o botão está em hover ou clicado */
-    color: white; /* Alterando a cor do texto para branco quando o botão está em hover ou clicado */
+    border:2px solid black;
 }
 
 
